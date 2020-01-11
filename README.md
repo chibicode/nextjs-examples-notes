@@ -1,8 +1,8 @@
 # nextjs-examples-notes
 
-| Example Name | Deployment |
-|---------|-----|
-| [active-class-name](#[active-class-name]) | [🔗](https://nextjs-chibicode-active-class-name.chibicode.now.sh/) |
+| Example Name | Deployment | Source
+|-|-|-|
+| [active-class-name](#active-class-name) | [🔗](https://nextjs-chibicode-active-class-name.chibicode.now.sh/) | [➡️](https://github.com/zeit/next.js/tree/canary/examples/active-class-name)
 
 ### active-class-name
 
